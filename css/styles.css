@@ -22,6 +22,22 @@
   display: none;
 }
 
+#initially-hidden7 {
+  display: none;
+}
+
+#initially-hidden8 {
+  display: none;
+}
+
+#initially-hidden9 {
+  display: none;
+}
+
+#initially-hidden10 {
+  display: none;
+}
+
 .clickable {
   cursor: pointer;
   color: #0088cc;
@@ -74,4 +90,45 @@
 
 .clickable6:hover {
   text-decoration: underline;
+}
+
+.clickable7 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable7:hover {
+  text-decoration: underline;
+}
+
+.clickable8 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable8:hover {
+  text-decoration: underline;
+}
+
+.clickable9 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable9:hover {
+  text-decoration: underline;
+}
+
+.clickable10 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable10:hover {
+  text-decoration: underline;
+}
+
+.imgsize {
+  height 240px;
+  width: 200px;
 }
