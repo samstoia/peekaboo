@@ -1,0 +1,77 @@
+#initially-hidden {
+  display: none;
+}
+
+#initially-hidden2 {
+  display: none;
+}
+
+#initially-hidden3 {
+  display: none;
+}
+
+#initially-hidden4 {
+  display: none;
+}
+
+#initially-hidden5 {
+  display: none;
+}
+
+#initially-hidden6 {
+  display: none;
+}
+
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+
+.clickable2 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable2:hover {
+  text-decoration: underline;
+}
+
+.clickable3 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable3:hover {
+  text-decoration: underline;
+}
+
+.clickable4 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable4:hover {
+  text-decoration: underline;
+}
+
+.clickable5 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable5:hover {
+  text-decoration: underline;
+}
+
+.clickable6 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable6:hover {
+  text-decoration: underline;
+}
