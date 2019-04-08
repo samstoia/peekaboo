@@ -1,5 +1,5 @@
 # peekaboo
-My first project using JS.  Makes walruses disappear using click events.
+My first project using JS and jQuery.  Makes walruses disappear using click events.
 
 
 ## Setup/Installation Requirements
@@ -14,6 +14,7 @@ If you run into any issues or have questions, ideas or concerns, or want to make
 
 ## Technologies Used
 * JavaScript
+* jQuery
 * HTML
 * CSS
 * Atom
